@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #add8e6; /* 淡蓝色背景 */
+  }
+  
+  canvas {
+    border: 10px solid black;
+  }
